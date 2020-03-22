@@ -17,6 +17,7 @@ public class Proyecto1 {
     public static void main(String[] args) {
         // TODO code application logic here
         //Estamos añadiendo una modificación en netbeans para subir los cambios a github
+        //Estamos añadiendo una modificación en gthub para llevar los cambios a netbeans
     }
     
 }
